@@ -1,0 +1,13 @@
+{
+  "name": "agence",
+  "authors": [
+    "Omar Alexander Orozco Avila"
+  ],
+  "description": "Proyecto de evaluacion de empleo",
+  "main": "",
+  "license": "MIT",
+  "homepage": "agence.app",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
